@@ -1,0 +1,10 @@
+[ BLACK ]           [   ]             [   ]               B                 B             
+
+  [   ]              Red               Red                B               [   ]           
+
+    B                Red               Red                B                Red            
+
+  [   ]             [   ]               B               [   ]               B             
+
+    B                Red               Red               Red               Red            
+
